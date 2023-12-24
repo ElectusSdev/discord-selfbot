@@ -54,12 +54,11 @@
   ```sh
   git clone https://github.com/discordtics/token-gen.git
   ```
-2.   * run the ```setup.bat``` file or 
-     *   ```sh
+2.   *  run the setup.bat file or
+  ```sh
   npm i
-  ``` to install the packages
-  
-     * this will install everything you need
+  ```
+
 
 
 *you dont have to edit any files or update anything if youre using this method, its easier and less complex and it'll ask you     for the required inputs eventually*
